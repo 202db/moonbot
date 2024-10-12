@@ -1,0 +1,10 @@
+Voici les prérequis pour que le bot marche 
+
+discord.js
+discord 
+fs
+emoji-regex
+mysql
+glob
+ms 
+os
